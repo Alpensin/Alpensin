@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 🥷🏻
+
+[![Alpensin's github stats](https://github-readme-stats.vercel.app/api?username=Alpensin&count_private=true&show_icons=true)](https://github.com/Alpensin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpensin)](https://github.com/Alpensin)
 
 <!--
 **Alpensin/Alpensin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
