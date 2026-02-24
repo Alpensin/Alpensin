@@ -1,5 +1,4 @@
 ## Hi there 🥷🏻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpensin&theme=tokyonight&hide=css,html,jupyter%20notebook)](https://github.com/Alpensin)
 <!--
 **Alpensin/Alpensin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
